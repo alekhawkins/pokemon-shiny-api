@@ -1,0 +1,30 @@
+body{
+    background-image: url('./Assets/pokemonBackground.jpg');
+    background-size: 80%;
+}
+#imageThree{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+#imageFour{
+    position: absolute;
+    left: 700px;
+    top: 300px;
+}
+#imageOne{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+}
+#imageTwo{
+    position: absolute;
+    left: 700px;
+    top: 300px;
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+}
