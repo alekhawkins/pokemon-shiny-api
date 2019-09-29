@@ -28,3 +28,12 @@ body{
     width: 200px;
     height: 200px;
 }
+#number1{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+#pokedexNumber{
+    position: relative;
+    left: 70px;
+}
